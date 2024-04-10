@@ -8,7 +8,7 @@ export default function Sizes() {
           fill
           src="https://darl-p-001.sitecorecontenthub.cloud/api/public/content/6c25638ae9e746fab8b546b23ce86e5a?v=bf6e7679"
           alt="Test responsive image"
-          sizes="(max-width: 500px) 250px, 500px"
+          sizes="(max-width: 500px) 100vw, 25vw"
         />
       </div>
     </main>
